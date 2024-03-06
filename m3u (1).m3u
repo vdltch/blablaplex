@@ -1,0 +1,631 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="TF1.fr" tvg-name="FR -  TF1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TF1.png" group-title="|EU| FRANCE GENERAL", FR -  TF1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12923
+#EXTINF: -1 tvg-id="TF1plus1.fr" tvg-name="FR -  TF1 PLUS 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TF1.png" group-title="|EU| FRANCE GENERAL", FR -  TF1 PLUS 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435621
+#EXTINF: -1 tvg-id="france2.fr" tvg-name="FR -  FRANCE 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE2HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12922
+#EXTINF: -1 tvg-id="france3.fr" tvg-name="FR -  FRANCE 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE3HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12921
+#EXTINF: -1 tvg-id="france4.fr" tvg-name="FR -  FRANCE 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE4HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12920
+#EXTINF: -1 tvg-id="france5.fr" tvg-name="FR -  FRANCE 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE5HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12919
+#EXTINF: -1 tvg-id="6ter.fr" tvg-name="FR -  6TER HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/6TERHD.png" group-title="|EU| FRANCE GENERAL", FR -  6TER HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12916
+#EXTINF: -1 tvg-id="m6.fr" tvg-name="FR -  M6 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/M6HD.png" group-title="|EU| FRANCE GENERAL", FR -  M6 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12915
+#EXTINF: -1 tvg-name="FR -  M6 INTERNATIONAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/M6INTERNA.png" group-title="|EU| FRANCE GENERAL", FR -  M6 INTERNATIONAL HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/221464
+#EXTINF: -1 tvg-id="tf1seriesfilms.fr" tvg-name="FR -  TF1 SERIES FILMS HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TF1SERIESFILMS.png" group-title="|EU| FRANCE GENERAL", FR -  TF1 SERIES FILMS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12914
+#EXTINF: -1 tvg-id="tfx.fr" tvg-name="FR -  TFX HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TFXHD.png" group-title="|EU| FRANCE GENERAL", FR -  TFX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12913
+#EXTINF: -1 tvg-id="rtl9.fr" tvg-name="FR -  RTL 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/RTL9HD.png" group-title="|EU| FRANCE GENERAL", FR -  RTL 9 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12912
+#EXTINF: -1 tvg-id="teva.fr" tvg-name="FR -  TEVA HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TEVAHD.png" group-title="|EU| FRANCE GENERAL", FR -  TEVA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12911
+#EXTINF: -1 tvg-id="tmc.fr" tvg-name="FR -  TMC HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TMCHD.png" group-title="|EU| FRANCE GENERAL", FR -  TMC HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12910
+#EXTINF: -1 tvg-id="w9.fr" tvg-name="FR -  W9 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/W9HD.png" group-title="|EU| FRANCE GENERAL", FR -  W9 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12909
+#EXTINF: -1 tvg-id="arte.fr" tvg-name="FR -  ARTE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/artehd.png" group-title="|EU| FRANCE GENERAL", FR -  ARTE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12908
+#EXTINF: -1 tvg-id="novelastv.fr" tvg-name="FR -  NOVELAS TV HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/NOVELASTVHD.png" group-title="|EU| FRANCE GENERAL", FR -  NOVELAS TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12905
+#EXTINF: -1 tvg-name="FR -  ROUGE TV HD" tvg-logo="http://logo.ottc.pro/crystal/rougetv.png" group-title="|EU| FRANCE GENERAL", FR -  ROUGE TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12903
+#EXTINF: -1 tvg-id="RTSUn.ch" tvg-name="FR -  RTS UN HD" tvg-logo="http://logo.ottc.pro/crystal/rtsun.png" group-title="|EU| FRANCE GENERAL", FR -  RTS UN HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12902
+#EXTINF: -1 tvg-id="RTSDeux.ch" tvg-name="FR -  RTS DEUX HD" tvg-logo="http://logo.ottc.pro/crystal/rtsdeux.png" group-title="|EU| FRANCE GENERAL", FR -  RTS DEUX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12901
+#EXTINF: -1 tvg-id="cstar.fr" tvg-name="FR -  CSTAR HD" tvg-logo="http://logo.ottc.pro/crystal/cstar.png" group-title="|EU| FRANCE GENERAL", FR -  CSTAR HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12900
+#EXTINF: -1 tvg-id="LaChaineMeteo.fr" tvg-name="FR -  LA CHAINE METEO HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/LACHAINEMETEOHD.png" group-title="|EU| FRANCE GENERAL", FR -  LA CHAINE METEO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12899
+#EXTINF: -1 tvg-id="Mezzo.fr" tvg-name="FR -  MEZZO HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/mezzo.png" group-title="|EU| FRANCE GENERAL", FR -  MEZZO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12898
+#EXTINF: -1 tvg-id="ComediePlus.fr" tvg-name="FR -  COMEDIE+ HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/COMEDIEHD.png" group-title="|EU| FRANCE GENERAL", FR -  COMEDIE+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12896
+#EXTINF: -1 tvg-id="ComedyCentral.fr" tvg-name="FR -  COMEDY CENTRAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/COMEDYCENTRALHD.png" group-title="|EU| FRANCE GENERAL", FR -  COMEDY CENTRAL HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12895
+#EXTINF: -1 tvg-id="C8.fr" tvg-name="FR -  CANAL 8 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/CANAL8HD.png" group-title="|EU| FRANCE GENERAL", FR -  CANAL 8 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12892
+#EXTINF: -1 tvg-name="FR -  EQUIPE 21 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/EQUIPE21.png" group-title="|EU| FRANCE GENERAL", FR -  EQUIPE 21 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12890
+#EXTINF: -1 tvg-id="idf1.fr" tvg-name="FR -  IDF 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/IDF1.png" group-title="|EU| FRANCE GENERAL", FR -  IDF 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12889
+#EXTINF: -1 tvg-id="OlympiaTV.fr" tvg-name="FR -  OLYMPIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/OLYMPIAHD.png" group-title="|EU| FRANCE GENERAL", FR -  OLYMPIA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12888
+#EXTINF: -1 tvg-id="kto.fr" tvg-name="FR -  KTO HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/KTO.png" group-title="|EU| FRANCE GENERAL", FR -  KTO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12886
+#EXTINF: -1 tvg-name="FR -  CANAL 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/CANAL9HD.png" group-title="|EU| FRANCE GENERAL", FR -  CANAL 9 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12883
+#EXTINF: -1 tvg-id="tntiledefrance.fr" tvg-name="FR -  TNTV HD" tvg-logo="http://logo.ottc.pro/crystal/tntv.png" group-title="|EU| FRANCE GENERAL", FR -  TNTV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435836
+#EXTINF: -1 tvg-id="MotorVisionTV.fr" tvg-name="FR -  MOTORVISION HD" tvg-logo="http://logo.ottc.pro/crystal/motorvision.png" group-title="|EU| FRANCE GENERAL", FR -  MOTORVISION HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435835
+#EXTINF: -1 tvg-id="Tebeo.fr" tvg-name="FR -  TEBEO HD" tvg-logo="http://logo.ottc.pro/crystal/tebeo.png" group-title="|EU| FRANCE GENERAL", FR -  TEBEO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435829
+#EXTINF: -1 tvg-id="TopSanteTV.fr" tvg-name="FR -  TOP SANTE TV HD" tvg-logo="http://logo.ottc.pro/crystal/topsantetv.png" group-title="|EU| FRANCE GENERAL", FR -  TOP SANTE TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435828
+#EXTINF: -1 tvg-name="FR -  TLC HD" tvg-logo="http://logo.ottc.pro/crystal/tlc.png" group-title="|EU| FRANCE GENERAL", FR -  TLC HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435827
+#EXTINF: -1 tvg-id="MyZenTV.fr" tvg-name="FR -  MY ZEN TV HD" tvg-logo="http://logo.ottc.pro/crystal/myzen.png" group-title="|EU| FRANCE GENERAL", FR -  MY ZEN TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435826
+#EXTINF: -1 tvg-id="ClubbingTV.fr" tvg-name="FR -  CLUBBING TV HD" tvg-logo="http://logo.ottc.pro/crystal/clubbingtv.png" group-title="|EU| FRANCE GENERAL", FR -  CLUBBING TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435825
+#EXTINF: -1 tvg-id="France3NouvelleAquitaine.fr" tvg-name="FR -  FRANCE 3 NOA HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE3HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 3 NOA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435824
+#EXTINF: -1 tvg-name="FR -  GOURMAND TV HD" tvg-logo="http://logo.ottc.pro/crystal/gourmandtv.png" group-title="|EU| FRANCE GENERAL", FR -  GOURMAND TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435819
+#EXTINF: -1 tvg-name="FR -  GONG HD" tvg-logo="http://logo.ottc.pro/crystal/gong.png" group-title="|EU| FRANCE GENERAL", FR -  GONG HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435818
+#EXTINF: -1 tvg-name="FR -  GONG MAX HD" tvg-logo="http://logo.ottc.pro/crystal/gongmax.png" group-title="|EU| FRANCE GENERAL", FR -  GONG MAX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435817
+#EXTINF: -1 tvg-name="FR -  VIA MATELE HD" tvg-logo="http://logo.ottc.pro/crystal/viamatele.png" group-title="|EU| FRANCE GENERAL", FR -  VIA MATELE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435815
+#EXTINF: -1 tvg-id="MaisonEtTravaux.fr" tvg-name="FR -  MAISON ET TRAVAUX HD" tvg-logo="http://logo.ottc.pro/crystal/maisonettravaux.png" group-title="|EU| FRANCE GENERAL", FR -  MAISON ET TRAVAUX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435646
+#EXTINF: -1 tvg-id="LuxeTV.fr" tvg-name="FR -  LUXE TV HD" tvg-logo="http://logo.ottc.pro/crystal/luxetv.png" group-title="|EU| FRANCE GENERAL", FR -  LUXE TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435645
+#EXTINF: -1 tvg-id="LuckyJack.fr" tvg-name="FR -  LUCKY JACK HD" tvg-logo="http://logo.ottc.pro/crystal/luckyjack.png" group-title="|EU| FRANCE GENERAL", FR -  LUCKY JACK HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435644
+#EXTINF: -1 tvg-id="LaChaineNormande.fr" tvg-name="FR -  LA CHAINE NORMANDE HD" tvg-logo="http://logo.ottc.pro/crystal/lachainenormande.png" group-title="|EU| FRANCE GENERAL", FR -  LA CHAINE NORMANDE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435642
+#EXTINF: -1 tvg-name="FR -  BFM COTE DAZUR HD" tvg-logo="http://logo.ottc.pro/crystal/bfmcoted.png" group-title="|EU| FRANCE GENERAL", FR -  BFM COTE DAZUR HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435634
+#EXTINF: -1 tvg-id="BFMMarseille.fr" tvg-name="FR -  BFM MARSEILLE HD" tvg-logo="http://logo.ottc.pro/crystal/bfmmarseille.png" group-title="|EU| FRANCE GENERAL", FR -  BFM MARSEILLE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435633
+#EXTINF: -1 tvg-name="FR -  BFM ALPES SUD HD" tvg-logo="http://logo.ottc.pro/crystal/bfmalpessud.png" group-title="|EU| FRANCE GENERAL", FR -  BFM ALPES SUD HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435632
+#EXTINF: -1 tvg-name="FR -  BFM HAUTE PROVINCE HD" tvg-logo="http://logo.ottc.pro/crystal/bfmhauteprovince.png" group-title="|EU| FRANCE GENERAL", FR -  BFM HAUTE PROVINCE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435631
+#EXTINF: -1 tvg-name="FR -  IMEARTH HD" tvg-logo="http://logo.ottc.pro/crystal/imearth.png" group-title="|EU| FRANCE GENERAL", FR -  IMEARTH HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435623
+#EXTINF: -1 tvg-id="ZoukTV.fr" tvg-name="FR -  ZOUK TV HD" tvg-logo="http://logo.ottc.pro/crystal/zouktv.png" group-title="|EU| FRANCE GENERAL", FR -  ZOUK TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435622
+#EXTINF: -1 tvg-id="TF1.fr" tvg-name="FR -  TF1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TF1.png" group-title="|EU| FRANCE GENERAL", FR -  TF1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12835
+#EXTINF: -1 tvg-name="FR -  M6 INTERNATIONAL SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/M6INTERNA.png" group-title="|EU| FRANCE GENERAL", FR -  M6 INTERNATIONAL SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/221466
+#EXTINF: -1 tvg-id="france2.fr" tvg-name="FR -  FRANCE 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE2HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 2 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12834
+#EXTINF: -1 tvg-id="france3.fr" tvg-name="FR -  FRANCE 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE3HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 3 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12833
+#EXTINF: -1 tvg-id="france4.fr" tvg-name="FR -  FRANCE 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE4HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 4 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12832
+#EXTINF: -1 tvg-id="france5.fr" tvg-name="FR -  FRANCE 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/FRANCE5HD.png" group-title="|EU| FRANCE GENERAL", FR -  FRANCE 5 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12831
+#EXTINF: -1 tvg-id="6ter.fr" tvg-name="FR -  6TER SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/6TERHD.png" group-title="|EU| FRANCE GENERAL", FR -  6TER SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12829
+#EXTINF: -1 tvg-id="M6.fr" tvg-name="FR -  M6 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/M6HD.png" group-title="|EU| FRANCE GENERAL", FR -  M6 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12828
+#EXTINF: -1 tvg-id="tf1seriesfilms.fr" tvg-name="FR -  TF1 SERIES-FILMS SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TF1SERIESFILMS.png" group-title="|EU| FRANCE GENERAL", FR -  TF1 SERIES-FILMS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12826
+#EXTINF: -1 tvg-id="tfx.fr" tvg-name="FR -  TFX SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TFXHD.png" group-title="|EU| FRANCE GENERAL", FR -  TFX SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12825
+#EXTINF: -1 tvg-id="rtl9.fr" tvg-name="FR -  RTL 9 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/RTL9HD.png" group-title="|EU| FRANCE GENERAL", FR -  RTL 9 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12824
+#EXTINF: -1 tvg-id="teva.fr" tvg-name="FR -  TEVA SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TEVAHD.png" group-title="|EU| FRANCE GENERAL", FR -  TEVA SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12823
+#EXTINF: -1 tvg-id="tmc.fr" tvg-name="FR -  TMC SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/TMCHD.png" group-title="|EU| FRANCE GENERAL", FR -  TMC SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12822
+#EXTINF: -1 tvg-id="w9.fr" tvg-name="FR -  W9 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/W9HD.png" group-title="|EU| FRANCE GENERAL", FR -  W9 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12821
+#EXTINF: -1 tvg-id="arte.fr" tvg-name="FR -  ARTE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/artehd.png" group-title="|EU| FRANCE GENERAL", FR -  ARTE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12820
+#EXTINF: -1 tvg-id="novelastv.fr" tvg-name="FR -  NOVELAS TV SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/NOVELASTVHD.png" group-title="|EU| FRANCE GENERAL", FR -  NOVELAS TV SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12817
+#EXTINF: -1 tvg-id="RTSUn.ch" tvg-name="FR -  RTS UN SD" tvg-logo="http://logo.ottc.pro/crystal/rtsun.png" group-title="|EU| FRANCE GENERAL", FR -  RTS UN SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12814
+#EXTINF: -1 tvg-id="RTSDeux.ch" tvg-name="FR -  RTS DEUX SD" tvg-logo="http://logo.ottc.pro/crystal/rtsdeux.png" group-title="|EU| FRANCE GENERAL", FR -  RTS DEUX SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12813
+#EXTINF: -1 tvg-id="cstar.fr" tvg-name="FR -  CSTAR SD" tvg-logo="http://logo.ottc.pro/crystal/cstar.png" group-title="|EU| FRANCE GENERAL", FR -  CSTAR SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12812
+#EXTINF: -1 tvg-id="LaChaineMeteo.fr" tvg-name="FR -  LA CHAINE METEO SD" tvg-logo="http://logo.ottc.pro/crystal/lachainemeteo.png" group-title="|EU| FRANCE GENERAL", FR -  LA CHAINE METEO SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12811
+#EXTINF: -1 tvg-id="Mezzo.fr" tvg-name="FR -  MEZZO FR SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/mezzo.png" group-title="|EU| FRANCE GENERAL", FR -  MEZZO FR SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12810
+#EXTINF: -1 tvg-id="ComediePlus.fr" tvg-name="FR -  COMEDIE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/COMEDIEHD.png" group-title="|EU| FRANCE GENERAL", FR -  COMEDIE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12808
+#EXTINF: -1 tvg-id="ComedyCentral.fr" tvg-name="FR -  COMEDY CENTRAL SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/COMEDYCENTRALHD.png" group-title="|EU| FRANCE GENERAL", FR -  COMEDY CENTRAL SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12807
+#EXTINF: -1 tvg-name="FR -  EQUIPE 21 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/EQUIPE21.png" group-title="|EU| FRANCE GENERAL", FR -  EQUIPE 21 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12802
+#EXTINF: -1 tvg-id="idf1.fr" tvg-name="FR -  IDF 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/IDF1.png" group-title="|EU| FRANCE GENERAL", FR -  IDF 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12801
+#EXTINF: -1 tvg-id="OlympiaTV.fr" tvg-name="FR -  OLYMPIA SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/OLYMPIAHD.png" group-title="|EU| FRANCE GENERAL", FR -  OLYMPIA SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12800
+#EXTINF: -1 tvg-id="kto.fr" tvg-name="FR -  KTO SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/KTO.png" group-title="|EU| FRANCE GENERAL", FR -  KTO SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12798
+#EXTINF: -1 tvg-id="TMCplus1.fr" tvg-name="FR -  TMC PLUS 1 HD" tvg-logo="http://logo.ottc.pro/crystal/tmcplus1.png" group-title="|EU| FRANCE GENERAL", FR -  TMC PLUS 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/435620
+#EXTINF: -1 tvg-name="FR -  CANAL+ 360 HD" tvg-logo="http://logo.ottc.pro/crystal/canalplus360.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ 360 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/439764
+#EXTINF: -1 tvg-id="canalplussport.fr" tvg-name="FR -  CANAL + SPORT HD" tvg-logo="http://logo.ottc.pro/crystal/canalplussport.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL + SPORT HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/289604
+#EXTINF: -1 tvg-name="FR -  CANAL+ PREMIER LEAGUE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/CANALPREMIERLEAGUEHD.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ PREMIER LEAGUE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/138279
+#EXTINF: -1 tvg-name="FR -  CANAL+ TOP14 HD" tvg-logo="http://logo.ottc.pro/crystal/canalplustop14.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ TOP14 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/138278
+#EXTINF: -1 tvg-name="FR -  CANAL+ FOOT HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusfoot.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ FOOT HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/439766
+#EXTINF: -1 tvg-name="FR -  CANAL+ FORMULE1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/CANALFORMULE1HD.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ FORMULE1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/138277
+#EXTINF: -1 tvg-name="FR -  CANAL+ MOTOGP HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusmotogp.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ MOTOGP HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/138276
+#EXTINF: -1 tvg-name="FR -  CANAL+ RUGBY red HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusrugby.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ RUGBY red HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/439770
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 1 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/226897
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 2 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229117
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 3 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229116
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 4 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229115
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 5 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229114
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 6 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 6 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229113
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME 7 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 7 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229112
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 8 HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 8 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/229111
+#EXTINF: -1 tvg-id="PrimeVideoLigue1.fr" tvg-name="FR -  AMAZON PRIME MULTIPLEX HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME MULTIPLEX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/239278
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 1 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 1 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330188
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 2 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 2 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330187
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 3 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 3 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330186
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 4 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 4 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330185
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 5 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 5 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330184
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 6 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 6 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330183
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 7 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 7 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330182
+#EXTINF: -1 tvg-name="FR -  AMAZON PRIME 8 (LEAGUE 2) HD" tvg-logo="http://logo.ottc.pro/crystal/amazonprime.png" group-title="|EU| FRANCE SPORTS", FR -  AMAZON PRIME 8 (LEAGUE 2) HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/330181
+#EXTINF: -1 tvg-name="FR -  BEIN SPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12605
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="FR -  BEIN SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT2HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12604
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="FR -  BEIN SPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT3HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12603
+#EXTINF: -1 tvg-id="bein4max.fr" tvg-name="FR -  BEIN SPORT MAX 4 HD" tvg-logo="http://logo.ottc.pro/crystal/beinmax.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12602
+#EXTINF: -1 tvg-id="bein5max.fr" tvg-name="FR -  BEIN SPORT MAX 5 HD" tvg-logo="http://logo.ottc.pro/crystal/beinmax.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12601
+#EXTINF: -1 tvg-id="bein6max.fr" tvg-name="FR -  BEIN SPORT MAX 6 HD" tvg-logo="http://logo.ottc.pro/crystal/beinsportmax6.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 6 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12600
+#EXTINF: -1 tvg-id="bein7max.fr" tvg-name="FR -  BEIN SPORT MAX 7 HD" tvg-logo="http://logo.ottc.pro/crystal/beinsportmax7.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 7 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12599
+#EXTINF: -1 tvg-id="bein8max.fr" tvg-name="FR -  BEIN SPORT MAX 8 HD" tvg-logo="http://logo.ottc.pro/crystal/beinsportmax8.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 8 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12598
+#EXTINF: -1 tvg-id="bein9max.fr" tvg-name="FR -  BEIN SPORT MAX 9 HD" tvg-logo="http://logo.ottc.pro/crystal/beinsportmax9.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 9 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12597
+#EXTINF: -1 tvg-id="bein10max.fr" tvg-name="FR -  BEIN SPORT MAX 10 HD" tvg-logo="http://logo.ottc.pro/crystal/beinsportmax10.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT MAX 10 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12596
+#EXTINF: -1 tvg-id="multisports1.fr" tvg-name="FR -  MULTI SPORTS 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS1.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12577
+#EXTINF: -1 tvg-id="multisports2.fr" tvg-name="FR -  MULTI SPORTS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS2.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12576
+#EXTINF: -1 tvg-id="multisports3.fr" tvg-name="FR -  MULTI SPORTS 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS3.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12575
+#EXTINF: -1 tvg-id="multisports4.fr" tvg-name="FR -  MULTI SPORTS 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS4.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12574
+#EXTINF: -1 tvg-id="multisports5.fr" tvg-name="FR -  MULTI SPORTS 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS5.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12573
+#EXTINF: -1 tvg-id="multisports6.fr" tvg-name="FR -  MULTI SPORTS 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS6.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 6 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12572
+#EXTINF: -1 tvg-id="eurosport1.fr" tvg-name="FR -  EUROSPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12595
+#EXTINF: -1 tvg-id="eurosport2.fr" tvg-name="FR -  EUROSPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12594
+#EXTINF: -1 tvg-name="FR -  EUROSPORT 360 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT3601HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 360 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/139053
+#EXTINF: -1 tvg-name="FR -  EUROSPORT 360 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT3602HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 360 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/139052
+#EXTINF: -1 tvg-name="FR -  EUROSPORT 360 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT3603HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 360 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/139051
+#EXTINF: -1 tvg-name="FR -  EUROSPORT 360 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT3604HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 360 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/139050
+#EXTINF: -1 tvg-name="FR -  EUROSPORT 360 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT3605HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 360 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/139049
+#EXTINF: -1 tvg-id="rmcsport1.fr" tvg-name="FR -  RMC SPORT 1 HD" tvg-logo="http://logo.ottc.pro/crystal/rmcsport1.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12592
+#EXTINF: -1 tvg-name="FR -  RMC SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORT2HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT 2 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12591
+#EXTINF: -1 tvg-id="rmcsport4.fr" tvg-name="FR -  RMC SPORT LIVE 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE4HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 4 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/146388
+#EXTINF: -1 tvg-id="rmcsport3.fr" tvg-name="FR -  RMC SPORT LIVE 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE3HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/146389
+#EXTINF: -1 tvg-id="rmcsport4.fr" tvg-name="FR -  RMC SPORT LIVE 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE4HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 4 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/146392
+#EXTINF: -1 tvg-id="rmcsport3.fr" tvg-name="FR -  RMC SPORT LIVE 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE3HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 3 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/146393
+#EXTINF: -1 tvg-id="rmcsportlive5.fr" tvg-name="FR -  RMC SPORT LIVE 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE5HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 5 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12588
+#EXTINF: -1 tvg-id="rmcsportlive6.fr" tvg-name="FR -  RMC SPORT LIVE 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE6HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 6 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12587
+#EXTINF: -1 tvg-id="rmcsportlive7.fr" tvg-name="FR -  RMC SPORT LIVE 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE7HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 7 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12586
+#EXTINF: -1 tvg-id="rmcsportlive8.fr" tvg-name="FR -  RMC SPORT LIVE 8 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE8HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 8 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12585
+#EXTINF: -1 tvg-id="rmcsportlive9.fr" tvg-name="FR -  RMC SPORT LIVE 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE9HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 9 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12584
+#EXTINF: -1 tvg-id="rmcsportlive10.fr" tvg-name="FR -  RMC SPORT LIVE 10 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE10HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 10 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12583
+#EXTINF: -1 tvg-id="rmcsportlive11.fr" tvg-name="FR -  RMC SPORT LIVE 11 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE11HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 11 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12582
+#EXTINF: -1 tvg-id="rmcsportlive12.fr" tvg-name="FR -  RMC SPORT LIVE 12 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE12HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 12 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12581
+#EXTINF: -1 tvg-id="tracesportstars.fr" tvg-name="FR -  TRACE SPORT STARS HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/MUSIC/TRACESPORTSTARSHD.png" group-title="|EU| FRANCE SPORTS", FR -  TRACE SPORT STARS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/171712
+#EXTINF: -1 tvg-name="FR -  AUTO MOTO HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/AUTOMOTOHD.png" group-title="|EU| FRANCE SPORTS", FR -  AUTO MOTO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12566
+#EXTINF: -1 tvg-id="equidialive.fr" tvg-name="FR -  EQUIDIA LIVE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/MUSIC/EQUIDIALIVEHD.png" group-title="|EU| FRANCE SPORTS", FR -  EQUIDIA LIVE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12569
+#EXTINF: -1 tvg-name="FR -  OLTV HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/MUSIC/OLTV.png" group-title="|EU| FRANCE SPORTS", FR -  OLTV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/67605
+#EXTINF: -1 tvg-id="infosportplus.fr" tvg-name="FR -  INFO SPORT  HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/INFOSPORTHD.png" group-title="|EU| FRANCE SPORTS", FR -  INFO SPORT  HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12570
+#EXTINF: -1 tvg-id="GameOne.fr" tvg-name="FR -  GAME ONE  +1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/JEUNESSE/GAMEONE1HD.png" group-title="|EU| FRANCE SPORTS", FR -  GAME ONE  +1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/63863
+#EXTINF: -1 tvg-name="FR -  CANAL+ 360 SD" tvg-logo="http://logo.ottc.pro/crystal/canalplus360.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ 360 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/439769
+#EXTINF: -1 tvg-id="canalplus.fr" tvg-name="FR -  CANAL+ SPORT SD" tvg-logo="http://logo.ottc.pro/crystal/canalplussport.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ SPORT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/289603
+#EXTINF: -1 tvg-name="FR -  CANAL+ PREMIER LEAGUE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/CANALPREMIERLEAGUEHD.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ PREMIER LEAGUE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/138280
+#EXTINF: -1 tvg-name="FR -  CANAL+ TOP14 SD" tvg-logo="http://logo.ottc.pro/crystal/canalplustop14.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ TOP14 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/371580
+#EXTINF: -1 tvg-name="FR -  CANAL+ FORMULE 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/CANALFORMULE1HD.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ FORMULE 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/371581
+#EXTINF: -1 tvg-name="FR -  CANAL+ FOOT SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusfoot.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ FOOT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/439767
+#EXTINF: -1 tvg-name="FR -  CANAL+ MOTOGP SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusmotogp.png" group-title="|EU| FRANCE SPORTS", FR -  CANAL+ MOTOGP SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/371582
+#EXTINF: -1 tvg-name="FR -  BEIN SPORT 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12528
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="FR -  BEIN SPORT 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT2HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 2 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12527
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="FR -  BEIN SPORT 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/BEINSPORT3HD.png" group-title="|EU| FRANCE SPORTS", FR -  BEIN SPORT 3 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12526
+#EXTINF: -1 tvg-id="multisports1.fr" tvg-name="FR -  MULTI SPORTS 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS1.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12507
+#EXTINF: -1 tvg-id="multisports2.fr" tvg-name="FR -  MULTI SPORTS 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS2.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 2 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12506
+#EXTINF: -1 tvg-id="multisports3.fr" tvg-name="FR -  MULTI SPORTS 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS3.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 3 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12505
+#EXTINF: -1 tvg-id="multisports4.fr" tvg-name="FR -  MULTI SPORTS 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS4.png" group-title="|EU| FRANCE SPORTS", FR -  MULTI SPORTS 4 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12504
+#EXTINF: -1 tvg-id="multisports5.fr" tvg-name="FR -  MULTISPORTS 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS5.png" group-title="|EU| FRANCE SPORTS", FR -  MULTISPORTS 5 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12503
+#EXTINF: -1 tvg-id="multisports6.fr" tvg-name="FR -  MULTISPORTS 6 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/MULTISPORTS6.png" group-title="|EU| FRANCE SPORTS", FR -  MULTISPORTS 6 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12502
+#EXTINF: -1 tvg-id="eurosport1.fr" tvg-name="FR -  EUROSPORT 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12525
+#EXTINF: -1 tvg-id="eurosport2.fr" tvg-name="FR -  EUROSPORT 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="|EU| FRANCE SPORTS", FR -  EUROSPORT 2 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12524
+#EXTINF: -1 tvg-id="rmcsport1.fr" tvg-name="FR -  RMC SPORT 1 SD" tvg-logo="http://logo.ottc.pro/crystal/rmcsport1.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT 1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12522
+#EXTINF: -1 tvg-id="rmcsport2.fr" tvg-name="FR -  RMC SPORT 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORT2HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT 2 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12521
+#EXTINF: -1 tvg-id="rmcsportlive5.fr" tvg-name="FR -  RMC SPORT LIVE 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE5HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 5 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12518
+#EXTINF: -1 tvg-id="rmcsportlive6.fr" tvg-name="FR -  RMC SPORT LIVE 6 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE6HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 6 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12517
+#EXTINF: -1 tvg-id="rmcsportlive7.fr" tvg-name="FR -  RMC SPORT LIVE 7 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE7HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 7 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12516
+#EXTINF: -1 tvg-id="rmcsportlive8.fr" tvg-name="FR -  RMC SPORT LIVE 8 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE8HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 8 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12515
+#EXTINF: -1 tvg-id="rmcsportlive9.fr" tvg-name="FR -  RMC SPORT LIVE 9 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE9HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 9 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12514
+#EXTINF: -1 tvg-id="rmcsportlive10.fr" tvg-name="FR -  RMC SPORT LIVE 10 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE10HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 10 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12513
+#EXTINF: -1 tvg-id="rmcsportlive11.fr" tvg-name="FR -  RMC SPORT LIVE 11 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE11HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 11 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12512
+#EXTINF: -1 tvg-id="rmcsportlive12.fr" tvg-name="FR -  RMC SPORT LIVE 12 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE12HD.png" group-title="|EU| FRANCE SPORTS", FR -  RMC SPORT LIVE 12 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12511
+#EXTINF: -1 tvg-name="FR -  TRACE SPORT STARS SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/MUSIC/TRACESPORTSTARSHD.png" group-title="|EU| FRANCE SPORTS", FR -  TRACE SPORT STARS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/179311
+#EXTINF: -1 tvg-name="FR -  INFO SPORT SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/INFOSPORTHD.png" group-title="|EU| FRANCE SPORTS", FR -  INFO SPORT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12499
+#EXTINF: -1 tvg-id="equidialive.fr" tvg-name="FR -  EQUIDIA LIVE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/MUSIC/EQUIDIALIVEHD.png" group-title="|EU| FRANCE SPORTS", FR -  EQUIDIA LIVE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12498
+#EXTINF: -1 tvg-name="FR -  BFM TV SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.INFORMATION/BFMTV.png" group-title="|EU| FRANCE SPORTS", FR -  BFM TV SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12501
+#EXTINF: -1 tvg-id="golfplus.fr" tvg-name="FR -  GOLF SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/GOLFHD.png" group-title="|EU| FRANCE SPORTS", FR -  GOLF SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12497
+#EXTINF: -1 tvg-name="FR -  AUTO MOTO SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/AUTOMOTOHD.png" group-title="|EU| FRANCE SPORTS", FR -  AUTO MOTO SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12495
+#EXTINF: -1 tvg-id="golfplus.fr" tvg-name="FR -  GOLF+ HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/SPORTS/GOLFHD.png" group-title="|EU| FRANCE SPORTS", FR -  GOLF+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12568
+#EXTINF: -1 tvg-name="|F1| F1 TV FHD" group-title="F1 - MOTOGP", |F1| F1 TV FHD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/508447
+#EXTINF: -1 tvg-name="|F1| F1 LEC LECLERC FERRARI" group-title="F1 - MOTOGP", |F1| F1 LEC LECLERC FERRARI
+http://line.porschetv.net:80/30131186/k7IQ32E54H/508439
+#EXTINF: -1 tvg-id="action.fr" tvg-name="FR -  ACTION HD" tvg-logo="http://logo.ottc.pro/crystal/action.png" group-title="|EU| FRANCE CINEMA", FR -  ACTION HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12785
+#EXTINF: -1 tvg-id="ocsmax.fr" tvg-name="FR -  OCS MAX HD" tvg-logo="http://logo.ottc.pro/crystal/ocsmax.png" group-title="|EU| FRANCE CINEMA", FR -  OCS MAX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12784
+#EXTINF: -1 tvg-id="ocsgeants.fr" tvg-name="FR -  OCS GEANTS HD" tvg-logo="http://logo.ottc.pro/crystal/ocsgeants.png" group-title="|EU| FRANCE CINEMA", FR -  OCS GEANTS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12782
+#EXTINF: -1 tvg-id="cinepluspremier.fr" tvg-name="FR -  CINE+ PREMIERE HD" tvg-logo="http://logo.ottc.pro/crystal/cinepluspremier.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ PREMIERE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12780
+#EXTINF: -1 tvg-id="cineplusemotion.fr" tvg-name="FR -  CINE+ EMOTION HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusemotion.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ EMOTION HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12778
+#EXTINF: -1 tvg-id="cineplusamiz.fr" tvg-name="FR -  CINE+ FAMIZ HD" tvg-logo="http://logo.ottc.pro/crystal/cineplusfamiz.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ FAMIZ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12777
+#EXTINF: -1 tvg-id="cineplusclub.fr" tvg-name="FR -  CINE+ CLUB HD" tvg-logo="http://logo.ottc.pro/crystal/cineplusclub.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ CLUB HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12776
+#EXTINF: -1 tvg-id="cineplusclassic.fr" tvg-name="FR -  CINE+ CLASSIC HD" tvg-logo="http://logo.ottc.pro:8080/logos//FRENCH/FILMSSERIES/CINECLASSICHD.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ CLASSIC HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12775
+#EXTINF: -1 tvg-id="canalplusgrandecran.fr" tvg-name="FR -  CANAL+ GRAND ECRAN HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusgrandecran.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ GRAND ECRAN HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/325111
+#EXTINF: -1 tvg-id="canalplusdocs.fr" tvg-name="FR -  CANAL+ DOCS HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusdocs.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ DOCS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/319984
+#EXTINF: -1 tvg-id="DisneyPlus.fr" tvg-name="FR -  DISNEY PLUS HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/JEUNESSE/DISNEYPLUSHD.png" group-title="|EU| FRANCE CINEMA", FR -  DISNEY PLUS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/53077
+#EXTINF: -1 tvg-id="paramountchannel.fr" tvg-name="FR -  PARAMOUNT CHANNEL HD" tvg-logo="http://logo.ottc.pro/crystal/paramountchannel.png" group-title="|EU| FRANCE CINEMA", FR -  PARAMOUNT CHANNEL HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12773
+#EXTINF: -1 tvg-id="paramountchannel.fr" tvg-name="FR -  PARAMOUNT DECALE HD" tvg-logo="http://logo.ottc.pro/crystal/paramountdecale.png" group-title="|EU| FRANCE CINEMA", FR -  PARAMOUNT DECALE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12774
+#EXTINF: -1 tvg-id="canalplus.fr" tvg-name="FR -  CANAL+ HD" tvg-logo="http://logo.ottc.pro/crystal/canalplus.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12792
+#EXTINF: -1 tvg-id="canalplussport.fr" tvg-name="FR -  CANAL+ SPORT HD" tvg-logo="http://logo.ottc.pro/crystal/canalplussport.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ SPORT HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12791
+#EXTINF: -1 tvg-id="canalplusseries.fr" tvg-name="FR -  CANAL+ SERIE HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusseries.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ SERIE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12790
+#EXTINF: -1 tvg-id="canalpluskids.fr" tvg-name="FR -  CANAL+ KIDS HD" tvg-logo="http://logo.ottc.pro/crystal/canalpluskids.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ KIDS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12789
+#EXTINF: -1 tvg-name="FR -  CANAL+ DECALE HD" tvg-logo="http://logo.ottc.pro/crystal/canalplusdecale.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ DECALE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12788
+#EXTINF: -1 tvg-id="canalpluscinema.fr" tvg-name="FR -  CANAL+ CINEMA HD" tvg-logo="http://logo.ottc.pro/crystal/canalpluscinema.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ CINEMA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12787
+#EXTINF: -1 tvg-id="action.fr" tvg-name="FR -  ACTION SD" tvg-logo="http://logo.ottc.pro/crystal/action.png" group-title="|EU| FRANCE CINEMA", FR -  ACTION SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12677
+#EXTINF: -1 tvg-id="ocsmax.fr" tvg-name="FR -  OCS MAX SD" tvg-logo="http://logo.ottc.pro/crystal/ocsmax.png" group-title="|EU| FRANCE CINEMA", FR -  OCS MAX SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12676
+#EXTINF: -1 tvg-id="ocsgeants.fr" tvg-name="FR -  OCS GEANTS SD" tvg-logo="http://logo.ottc.pro/crystal/ocsgeants.png" group-title="|EU| FRANCE CINEMA", FR -  OCS GEANTS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12674
+#EXTINF: -1 tvg-id="cinepluspremier.fr" tvg-name="FR -  CINE+ PREMIER SD" tvg-logo="http://logo.ottc.pro/crystal/cinepluspremier.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ PREMIER SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12672
+#EXTINF: -1 tvg-id="cineplusfrisson.fr" tvg-name="FR -  CINE+ FRISSON SD" tvg-logo="http://logo.ottc.pro/crystal/cineplusfrisson.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ FRISSON SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12671
+#EXTINF: -1 tvg-id="cineplusemotion.fr" tvg-name="FR -  CINE+ EMOTION SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusemotion.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ EMOTION SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12670
+#EXTINF: -1 tvg-id="cineplusamiz.fr" tvg-name="FR -  CINE+ FAMIZ SD" tvg-logo="http://logo.ottc.pro/crystal/cineplusfamiz.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ FAMIZ SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12669
+#EXTINF: -1 tvg-id="cineplusclub.fr" tvg-name="FR -  CINE+ CLUB SD" tvg-logo="http://logo.ottc.pro/crystal/cineplusclub.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ CLUB SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12668
+#EXTINF: -1 tvg-id="cineplusclassic.fr" tvg-name="FR -  CINE+ CLASSIC SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FILMSSERIES/CINECLASSICHD.png" group-title="|EU| FRANCE CINEMA", FR -  CINE+ CLASSIC SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12667
+#EXTINF: -1 tvg-name="FR -  PARAMOUNT DECALE SD" tvg-logo="http://logo.ottc.pro/crystal/paramountdecale.png" group-title="|EU| FRANCE CINEMA", FR -  PARAMOUNT DECALE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12666
+#EXTINF: -1 tvg-id="paramountchannel.fr" tvg-name="FR -  PARAMOUNT CHANNEL SD" tvg-logo="http://logo.ottc.pro/crystal/paramountchannel.png" group-title="|EU| FRANCE CINEMA", FR -  PARAMOUNT CHANNEL SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12665
+#EXTINF: -1 tvg-id="canalplusgrandecran.fr" tvg-name="FR -  CANAL+ GRAND ECRAN SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusgrandecran.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ GRAND ECRAN SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/325112
+#EXTINF: -1 tvg-id="canalplusdocs.fr" tvg-name="FR -  CANAL+ DOCS SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusdocs.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ DOCS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/319986
+#EXTINF: -1 tvg-id="canalplus.fr" tvg-name="FR -  CANAL+ SD" tvg-logo="http://logo.ottc.pro/crystal/canalplus.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12684
+#EXTINF: -1 tvg-id="canalplussport.fr" tvg-name="FR -  CANAL+ SPORT SD" tvg-logo="http://logo.ottc.pro/crystal/canalplussport.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ SPORT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12683
+#EXTINF: -1 tvg-id="canalplusseries.fr" tvg-name="FR -  CANAL+ SERIES SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusseries.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ SERIES SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12682
+#EXTINF: -1 tvg-id="canalplusfamily.fr" tvg-name="FR -  CANAL+ KIDS SD" tvg-logo="http://logo.ottc.pro/crystal/canalpluskids.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ KIDS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12681
+#EXTINF: -1 tvg-name="FR -  CANAL+ DECALE SD" tvg-logo="http://logo.ottc.pro/crystal/canalplusdecale.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ DECALE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12680
+#EXTINF: -1 tvg-id="canalpluscinema.fr" tvg-name="FR -  CANAL+ CINEMA SD" tvg-logo="http://logo.ottc.pro/crystal/canalpluscinema.png" group-title="|EU| FRANCE CINEMA", FR -  CANAL+ CINEMA SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12679
+#EXTINF: -1 tvg-name="FR -    Rakuten TV Films Thriller HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvfilmsthriller.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten TV Films Thriller HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415405
+#EXTINF: -1 tvg-name="FR -    Rakuten TV Films HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvfilms.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten TV Films HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415406
+#EXTINF: -1 tvg-name="FR -    Rakuten TV Top Films HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvtopfilms.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten TV Top Films HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415407
+#EXTINF: -1 tvg-name="FR -    Rakuten TV Films Drames HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvfilms.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten TV Films Drames HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415409
+#EXTINF: -1 tvg-name="FR -    Rakuten Spotlight France HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvfilms.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten Spotlight France HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415408
+#EXTINF: -1 tvg-name="FR -    Rakuten Comedy Movies France HD" tvg-logo="http://logo.ottc.pro/crystal/rakutencomedymoviesfrance.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten Comedy Movies France HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415410
+#EXTINF: -1 tvg-name="FR -    Rakuten TV Films Action HD" tvg-logo="http://logo.ottc.pro/crystal/rakutentvfilmsaction.png" group-title="|EU| FRANCE CINEMA", FR -    Rakuten TV Films Action HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/415411
+#EXTINF: -1 tvg-id="toutehistoire.fr" tvg-name="FR - TOUTE L'HISTOIRE" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TOUTE%20LHISTOIREHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TOUTE L'HISTOIRE
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13103
+#EXTINF: -1 tvg-id="planeteplus.fr" tvg-name="FR -  PLANETE+ HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANETE+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13102
+#EXTINF: -1 tvg-name="FR -  PLANET A&E HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETAEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANET A&E HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13101
+#EXTINF: -1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR -  PLANETE+ CI HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETECIHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANETE+ CI HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13100
+#EXTINF: -1 tvg-id="discoverychannel.fr" tvg-name="FR -  DISCOVERY HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERY.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13099
+#EXTINF: -1 tvg-id="discoveryscience.fr" tvg-name="FR -  DISCOVERY SCIENCE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERYSCIENCE.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY SCIENCE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13098
+#EXTINF: -1 tvg-name="FR -  DISCOVERY ID HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERYIDHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY ID HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13096
+#EXTINF: -1 tvg-name="FR -  DISCOVERY INVESTIGATION HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/INVESTIGATIONDISCOVERYID.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY INVESTIGATION HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13095
+#EXTINF: -1 tvg-name="FR -  NGC HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/NGCHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NGC HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13094
+#EXTINF: -1 tvg-name="FR -  NGC WILD HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/NATGEOWILD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NGC WILD HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13093
+#EXTINF: -1 tvg-id="ushuaiatv.fr" tvg-name="FR -  USHUAIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/USHUAIAHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  USHUAIA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13091
+#EXTINF: -1 tvg-id="histoire.fr" tvg-name="FR -  HISTOIRE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/HISTORY.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  HISTOIRE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13090
+#EXTINF: -1 tvg-id="animaux.fr" tvg-name="FR -  ANIMAUX HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/ANIMAUXHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  ANIMAUX HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13089
+#EXTINF: -1 tvg-id="trek.fr" tvg-name="FR -  TREK HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TREKHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  TREK HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13088
+#EXTINF: -1 tvg-id="chassepeche.fr" tvg-name="FR -  CHASSE ET PECHE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/CHASSEETPECHEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  CHASSE ET PECHE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13087
+#EXTINF: -1 tvg-id="scienceandvie.fr" tvg-name="FR -  SCIENCE ET VIE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/SCIENCEETVIEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  SCIENCE ET VIE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13086
+#EXTINF: -1 tvg-id="rmcdecouverte.fr" tvg-name="FR -  RMC DECOUVERTE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/RMCDECOUVERTEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  RMC DECOUVERTE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13085
+#EXTINF: -1 tvg-id="seasons.fr" tvg-name="FR -  SEASONS HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/SEASONSHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  SEASONS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13084
+#EXTINF: -1 tvg-id="gulli.fr" tvg-name="FR -  GULLI HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/GULLIHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  GULLI HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13083
+#EXTINF: -1 tvg-name="FR -  TCM CINEMA HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TCMCINEMAHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  TCM CINEMA HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13082
+#EXTINF: -1 tvg-id="crimedistrict.fr" tvg-name="FR -  CRIME DISTRICT HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/CRIMEDISTRICTHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  CRIME DISTRICT HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13081
+#EXTINF: -1 tvg-name="FR - TOUTE L'HISTOIRE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TOUTE%20LHISTOIREHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TOUTE L'HISTOIRE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13055
+#EXTINF: -1 tvg-name="FR -  PLANETE+ SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANETE+ SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13054
+#EXTINF: -1 tvg-id="planeteadventureexperience.fr" tvg-name="FR -  PLANETE  A&E SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETAEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANETE  A&E SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13053
+#EXTINF: -1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR -  PLANETE+ CI SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/PLANETECIHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  PLANETE+ CI SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13052
+#EXTINF: -1 tvg-name="FR -  DISCOVERY SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERY.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13051
+#EXTINF: -1 tvg-name="FR -  DISCOVERY SCIENCE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERYSCIENCE.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY SCIENCE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13050
+#EXTINF: -1 tvg-name="FR -  DISCOVERY ID SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/DISCOVERYIDHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY ID SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13048
+#EXTINF: -1 tvg-name="FR -  DISCOVERY INVESTIGATION SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/INVESTIGATIONDISCOVERYID.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  DISCOVERY INVESTIGATION SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13047
+#EXTINF: -1 tvg-name="FR -  NGC SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/NGCHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NGC SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13046
+#EXTINF: -1 tvg-name="FR -  NGC WILD SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/NATGEOWILD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NGC WILD SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13045
+#EXTINF: -1 tvg-id="ushuaiatv.fr" tvg-name="FR -  USHUAIA SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/USHUAIAHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  USHUAIA SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13043
+#EXTINF: -1 tvg-id="histoire.fr" tvg-name="FR -  HISTOIRE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/HISTORY.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  HISTOIRE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13042
+#EXTINF: -1 tvg-id="animaux.fr" tvg-name="FR -  ANIMAUX SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/ANIMAUXHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  ANIMAUX SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13041
+#EXTINF: -1 tvg-id="trek.fr" tvg-name="FR -  TREK SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TREKHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  TREK SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13040
+#EXTINF: -1 tvg-id="chassepeche.fr" tvg-name="FR -  CHASSE&PECHE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/CHASSEETPECHEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  CHASSE&PECHE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13039
+#EXTINF: -1 tvg-id="scienceandvie.fr" tvg-name="FR -  SCIENCE ET VIE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/SCIENCEETVIEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  SCIENCE ET VIE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13038
+#EXTINF: -1 tvg-id="rmcdecouverte.fr" tvg-name="FR -  RMC DECOUVERTE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/RMCDECOUVERTEHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  RMC DECOUVERTE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13037
+#EXTINF: -1 tvg-id="seasons.fr" tvg-name="FR -  SEASONS SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/SEASONSHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  SEASONS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13036
+#EXTINF: -1 tvg-id="gulli.fr" tvg-name="FR -  GULLI SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/GULLIHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  GULLI SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13035
+#EXTINF: -1 tvg-id="tcm.fr" tvg-name="FR -  TCM CINEMA SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/TCMCINEMAHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  TCM CINEMA SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13034
+#EXTINF: -1 tvg-id="crimedistrict.fr" tvg-name="FR -  CRIME DISTRICT SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/NATURE/CRIMEDISTRICTHD.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  CRIME DISTRICT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/13033
+#EXTINF: -1 tvg-name="FR -  NAUTICAL CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/NAUTICALCHANNEL.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NAUTICAL CHANNEL HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/179313
+#EXTINF: -1 tvg-name="FR -  NAUTICAL CHANNEL  SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/NAUTICALCHANNEL.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR -  NAUTICAL CHANNEL  SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/179307
+#EXTINF: -1 tvg-id="polarplus.fr" tvg-name="FR -  POLAR+ HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.INFORMATION/POLARPLUS.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  POLAR+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12771
+#EXTINF: -1 tvg-id="syfy.fr" tvg-name="FR -  SYFY HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/SYFY.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  SYFY HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12770
+#EXTINF: -1 tvg-id="serieclub.fr" tvg-name="FR -  SERIE CLUB HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/SERIECLUB.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  SERIE CLUB HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12769
+#EXTINF: -1 tvg-id="13emerue.fr" tvg-name="FR -  13 EME RUE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/13EMERUE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  13 EME RUE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12768
+#EXTINF: -1 tvg-id="alticestudio.fr" tvg-name="FR -   ALTICE STUDIO HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/ALTICESTUDIO.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -   ALTICE STUDIO HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12767
+#EXTINF: -1 tvg-id="tvbreizh.fr" tvg-name="FR -  TV BREIZH HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/TVBREIZH.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  TV BREIZH HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12765
+#EXTINF: -1 tvg-id="nrj12.fr" tvg-name="FR -  NRJ 12 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/NRJ12.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  NRJ 12 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12764
+#EXTINF: -1 tvg-id="rmcstory.fr" tvg-name="FR -  RMC STORY HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/RMCSTORY.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  RMC STORY HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12763
+#EXTINF: -1 tvg-id="cherie25.fr" tvg-name="FR -  CHERIE 25 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/CHERIE25.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  CHERIE 25 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12762
+#EXTINF: -1 tvg-id="parispremiere.fr" tvg-name="FR -  PARIS PREMIERE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/PARISPREMIERE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  PARIS PREMIERE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12761
+#EXTINF: -1 tvg-name="FR -  VICELAND HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/VICELAND.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  VICELAND HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12760
+#EXTINF: -1 tvg-id="eentertainment.fr" tvg-name="FR -  E! ENTERTAINMENT HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/EENTERTAINMENT.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  E! ENTERTAINMENT HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12759
+#EXTINF: -1 tvg-name="FR -  J ONE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/JONE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  J ONE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12757
+#EXTINF: -1 tvg-id="gameone.fr" tvg-name="FR -  GAME ONE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/GAMEONE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  GAME ONE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12756
+#EXTINF: -1 tvg-id="mangas.fr" tvg-name="FR -  MANGAS HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/MANGAS.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  MANGAS HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12755
+#EXTINF: -1 tvg-id="ab1.fr" tvg-name="FR -  AB 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/AB1.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  AB 1 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12754
+#EXTINF: -1 tvg-id="ab3.fr" tvg-name="FR -  AB 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/AB3.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  AB 3 HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12753
+#EXTINF: -1 tvg-id="bet.fr" tvg-name="FR -  BET HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/BET.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  BET HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12752
+#EXTINF: -1 tvg-id="tv5monde.fr" tvg-name="FR -  TV5 MONDE HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/TV5MONDE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  TV5 MONDE HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12751
+#EXTINF: -1 tvg-name="FR -  A+ HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.INFORMATION/APLUS.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  A+ HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12749
+#EXTINF: -1 tvg-name="FR -  NOLLYWOOD TV HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.INFORMATION/NOLLYWOODTV.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  NOLLYWOOD TV HD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12748
+#EXTINF: -1 tvg-id="polarplus.fr" tvg-name="FR -  POLAR  SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.INFORMATION/POLARPLUS.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  POLAR  SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12663
+#EXTINF: -1 tvg-id="syfy.fr" tvg-name="FR -  SYFY SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/SYFY.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  SYFY SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12662
+#EXTINF: -1 tvg-id="serieclub.fr" tvg-name="FR -  SERIE CLUB SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/SERIECLUB.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  SERIE CLUB SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12661
+#EXTINF: -1 tvg-id="13emerue.fr" tvg-name="FR -  13EME RUE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/13EMERUE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  13EME RUE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12660
+#EXTINF: -1 tvg-id="alticestudio.fr" tvg-name="FR -  ALTICE STUDIO SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/ALTICESTUDIO.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  ALTICE STUDIO SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12659
+#EXTINF: -1 tvg-name="FR -  WARNER TV SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/WARNERTV.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  WARNER TV SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12658
+#EXTINF: -1 tvg-id="tvbreizh.fr" tvg-name="FR -  TV BREIZH SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/TVBREIZH.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  TV BREIZH SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12657
+#EXTINF: -1 tvg-id="nrj12.fr" tvg-name="FR -  NRJ 12 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/NRJ12.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  NRJ 12 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12656
+#EXTINF: -1 tvg-id="rmcstory.fr" tvg-name="FR -  RMC STORY SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/RMCSTORY.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  RMC STORY SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12655
+#EXTINF: -1 tvg-id="cherie25.fr" tvg-name="FR -  CHERIE 25 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/CHERIE25.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  CHERIE 25 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12654
+#EXTINF: -1 tvg-id="parispremiere.fr" tvg-name="FR -  PARIS PREMIERE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/PARISPREMIERE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  PARIS PREMIERE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12653
+#EXTINF: -1 tvg-id="eentertainment.fr" tvg-name="FR -  E! ENTERTAINMENT SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/EENTERTAINMENT.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  E! ENTERTAINMENT SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12651
+#EXTINF: -1 tvg-name="FR -  J ONE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/JONE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  J ONE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12649
+#EXTINF: -1 tvg-id="gameone.fr" tvg-name="FR -  GAME ONE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/GAMEONE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  GAME ONE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12648
+#EXTINF: -1 tvg-id="mangas.fr" tvg-name="FR -  MANGAS SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/MANGAS.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  MANGAS SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12647
+#EXTINF: -1 tvg-id="ab1.fr" tvg-name="FR -  AB1 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/AB1.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  AB1 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12646
+#EXTINF: -1 tvg-id="ab3.fr" tvg-name="FR -  AB 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/AB3.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  AB 3 SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12645
+#EXTINF: -1 tvg-id="bet.fr" tvg-name="FR -  BET SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/BET.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  BET SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12644
+#EXTINF: -1 tvg-id="tv5monde.fr" tvg-name="FR -  TV5 MONDE SD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/FR.DIVERTISSEMENT/TV5MONDE.png" group-title="|EU| FRANCE DIVERTISSEMENT", FR -  TV5 MONDE SD
+http://line.porschetv.net:80/30131186/k7IQ32E54H/12643
